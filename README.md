@@ -1,7 +1,5 @@
 # Hi, I'm TickBaseWizard 👋
 
-Exploring Python and building Star Wars-inspired projects.  
-
 ---
 
 ## 🔧 Projects & Interests
